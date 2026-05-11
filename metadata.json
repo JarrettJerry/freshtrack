@@ -1,0 +1,8 @@
+{
+  "name": "FreshTrack",
+  "description": "An intelligent nutrition assistant that uses AI to recognize food, track calories, and monitor macros from simple photos.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
